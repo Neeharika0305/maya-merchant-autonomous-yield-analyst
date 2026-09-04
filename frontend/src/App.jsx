@@ -22,7 +22,7 @@ import {
   Zap,
 } from "lucide-react";
 
-const API_URL = "http://localhost:5000/api/maya/run";
+const API_URL = "https://maya-api-j3kn.onrender.com/api/maya/run";
 
 function formatCurrency(value) {
   const number = Number(value);

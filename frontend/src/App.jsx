@@ -176,7 +176,7 @@ function App() {
   const aiMode =
     aiPipeline?.fallback_mode ||
     aiPipeline?.decision === "FALLBACK"
-      ? "DETERMINISTIC FALLBACK"
+      ? "SAFE AUTONOMOUS FALLBACK"
       : aiAvailable
         ? "GEMINI"
         : "MAYA ENGINE";

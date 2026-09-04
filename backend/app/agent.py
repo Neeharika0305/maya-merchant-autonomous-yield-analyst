@@ -117,37 +117,56 @@ def run_maya():
 
         recommendation = {
             "strongest_segment": ai_segment,
-            "strongest_product_signal": "Smart Watch (P002)",
+
+            # FIXED:
+            # The discovered opportunity is
+            # Earbud -> USB-C Cable.
+            "strongest_product_signal": "USB-C Cable (P004)",
+
             "growth_opportunity": (
-                "Upsell Smart Watch to high-intent repeat buyers."
+                "Cross-sell USB-C Cable to high-intent "
+                "repeat buyers who purchase Wireless Earbuds."
             ),
+
             "hypothesis": (
-                "Repeat buyers are more likely to respond "
-                "to a targeted Smart Watch incentive."
+                "Repeat buyers who purchase Wireless Earbuds "
+                "are more likely to respond to a targeted "
+                "USB-C Cable incentive."
             ),
+
             "challenge": (
                 "High-intent repeat buyers may purchase "
-                "without an incentive."
+                "the USB-C Cable without an incentive."
             ),
+
             "recommended_experiment": (
-                "Test an 8% Smart Watch incentive "
+                "Test an 8% USB-C Cable incentive "
                 "with Repeat Buyers."
             ),
+
             "reasoning": (
                 "MAYA continued using its verified deterministic "
                 "decision engine because the external AI provider "
                 "was unavailable."
             ),
+
             "confidence": 88,
+
             "discount": ai_discount,
+
             "budget": ai_budget,
+
             "audience_size": ai_audience_size,
+
             "fallback_mode": True
         }
 
         ai_pipeline["recommendation"] = recommendation
+
         ai_pipeline["decision"] = "FALLBACK"
+
         ai_pipeline["approved"] = True
+
         ai_pipeline["fallback_mode"] = True
 
         ai_mode = "DETERMINISTIC_FALLBACK"

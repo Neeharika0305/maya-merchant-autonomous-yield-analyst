@@ -1,0 +1,11 @@
+product_id,product_name,category,price,cost,stock
+P001,Wireless Earbuds,Audio,2499,1450,1226
+P002,Smart Watch,Wearables,3999,2400,960
+P003,Power Bank,Power,1299,700,1394
+P004,USB-C Cable,Accessories,499,180,1230
+P005,Phone Case,Accessories,699,250,1195
+P006,Bluetooth Speaker,Audio,2999,1700,1144
+P007,Wireless Mouse,Computer,999,500,221
+P008,Keyboard,Computer,1799,950,566
+P009,Laptop Stand,Computer,1499,800,1338
+P010,Charging Adapter,Power,899,450,430

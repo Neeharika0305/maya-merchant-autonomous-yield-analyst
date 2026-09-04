@@ -1,0 +1,5 @@
+campaign_id,campaign_name,campaign_type,target_segment,start_date,end_date,budget,spend,impressions,clicks,conversions,revenue
+CAMP001,Monsoon Audio Campaign,Cross-sell,Earbud Buyers,2026-06-01,2026-06-15,5000,4200,18000,1200,85,115000
+CAMP002,Summer Accessories,Cross-sell,All Customers,2026-05-01,2026-05-15,8000,7600,25000,1500,100,95000
+CAMP003,Repeat Buyer Rewards,Retention,Repeat Buyer,2026-07-01,2026-07-15,6000,5100,16000,1400,130,142000
+CAMP004,Smart Watch Launch,Product,All Customers,2026-07-15,2026-08-01,12000,11000,35000,2200,170,310000

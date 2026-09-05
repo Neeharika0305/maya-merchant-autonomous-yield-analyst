@@ -273,6 +273,8 @@ It is:
 ---
 
 ## 🏗️ Architecture
+![Uploading ChatGPT Image Sep 4, 2026, 08_52_20 PM.png…]()
+
 
 ```text
                     ┌──────────────────────┐

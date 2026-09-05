@@ -434,7 +434,8 @@ MAYA can evolve toward production-scale merchant intelligence with:
 ## 🎥 Demo
 
 **Live Demo:**
-`https://maya-nine-theta.vercel.app/`
+`https://maya-nine-theta.vercel.app/`   
+Click Run
 
 The demo showcases MAYA's complete autonomous growth workflow from **opportunity discovery to experimentation, failure diagnosis, adaptation, and recovery.**
 

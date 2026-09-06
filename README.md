@@ -27,6 +27,33 @@ MAYA turns merchant data into an **autonomous experimentation and decision-makin
 
 ---
 
+## 🎯 Objectives
+
+The primary objective of MAYA is to build an autonomous, AI-driven growth intelligence system that can move beyond traditional analytics and actively discover, validate, and learn from merchant growth opportunities.
+
+### Key Objectives
+
+* **Autonomously discover growth opportunities** from merchant transaction, customer, and product behavior data.
+
+* **Generate and compare competing hypotheses** instead of relying on a single recommendation.
+
+* **Design controlled experiments** with clear targets, metrics, control groups, and treatment strategies.
+
+* **Validate economic impact** by considering conversion lift, incremental revenue, incentive cost, margin, ROI, and statistical confidence.
+
+* **Detect and diagnose experiment failures** rather than treating unsuccessful experiments as dead ends.
+
+* **Adapt strategies autonomously** by refining audiences, offers, or experiment parameters based on observed outcomes.
+
+* **Create a continuous learning loop** of **Discover → Test → Measure → Diagnose → Adapt → Re-test**.
+
+* **Prioritize profitable and sustainable growth**, ensuring that increased conversions do not come at the cost of merchant profitability.
+
+* **Prove growth through measurable evidence**, transforming AI recommendations into validated and repeatable business outcomes.
+
+---
+
+
 ## 💡 What MAYA Does
 
 MAYA follows a closed-loop growth intelligence workflow:

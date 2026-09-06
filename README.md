@@ -301,7 +301,7 @@ It is:
 
 ## 🏗️ Architecture
 
-
+[View MAYA Architecture Diagram](https://drive.google.com/file/d/1M77qmuh5PXfZaYJ7GBZ78hAa_dXkBApJ/view)
 
 ```text
                     ┌──────────────────────┐
